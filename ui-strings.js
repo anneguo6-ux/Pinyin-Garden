@@ -17,7 +17,7 @@
 const uiStrings = {
   /* --- 繁體中文（預設）--- */
   zh: {
-    appTitle: "拼音樂園",
+    appTitle: "拼音花園",
     startButton: "開始",
     navHome: "首頁",
     navSettings: "設定",
@@ -49,7 +49,7 @@ const uiStrings = {
 
   /* --- English --- */
   en: {
-    appTitle: "Pinyin Playground",
+    appTitle: "Pinyin Garden",
     startButton: "Start",
     navHome: "Home",
     navSettings: "Settings",
@@ -81,7 +81,7 @@ const uiStrings = {
 
   /* --- 日本語（初稿，待校對）--- */
   ja: {
-    appTitle: "ピンインひろば",
+    appTitle: "ピンインガーデン",
     startButton: "スタート",
     navHome: "ホーム",
     navSettings: "設定",
