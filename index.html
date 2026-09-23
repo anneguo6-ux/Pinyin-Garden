@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>拼音花園</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet"
+  />
+  <!-- 拼音選項專用：避免聲調符號位置跑掉 -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ===== 常駐頂部列（僅在 screen-home / screen-settings 顯示） ===== -->
+  <header id="top-bar" class="top-bar" hidden>
+    <div class="top-bar__brand">
+      <span class="top-bar__logo" aria-hidden="true">🐰</span>
+      <span class="top-bar__title" data-i18n="appTitle">拼音花園</span>
+    </div>
+    <nav class="top-bar__nav">
+      <button
+        type="button"
+        class="icon-btn"
+        data-i18n-aria="navSettings"
+        aria-label="設定"
+        onclick="showScreen('screen-settings')"
+      >
+        <span aria-hidden="true">⚙️</span>
+      </button>
+    </nav>
+  </header>
+
+  <!-- ===== 畫面容器 ===== -->
+  <main id="app">
+    <!-- 1. 歡迎頁 -->
+    <section id="screen-welcome" class="screen" data-screen>
+      <div class="screen__inner welcome">
+        <h1 class="welcome__title" data-i18n="appTitle">拼音花園</h1>
+
+        <!-- 小兔子跳躍拼音障礙動畫（純裝飾）
+             節奏參數都在 style.css 的 .welcome__stage：
+             --hop-duration（一次跳躍週期）、--frame-count（sprite 影格數）、
+             障礙週期 = --hop-duration x 3，三個障礙各差一個週期，達到「每跳一次剛好跨過一個」的鎖定效果 -->
+        <div class="welcome__stage" aria-hidden="true">
+          <!-- 由右往左循環移動的拼音障礙 -->
+          <div class="welcome__obstacles">
+            <span
+              class="obstacle obstacle--sage"
+              style="--delay: 0s"
+              >mā</span
+            >
+            <span
+              class="obstacle obstacle--carrot"
+              style="--delay: calc(var(--hop-duration) * -1)"
+              >gǒu</span
+            >
+            <span
+              class="obstacle obstacle--sage"
+              style="--delay: calc(var(--hop-duration) * -2)"
+              >huā</span
+            >
+          </div>
+
+          <!-- 兔子：多影格 sprite
+               正式素材放 assets/images/rabbit-sprite.png（單張橫向影格條）
+               找不到檔案時由 app.js 加上 .no-rabbit-sprite，改用 emoji 佔位（仍保留跳躍位移） -->
+          <div class="welcome__rabbit">
+            <div class="welcome__rabbit-sprite"></div>
+            <span class="welcome__rabbit-fallback">🐰</span>
+          </div>
+
+          <!-- 地面（草地） -->
+          <div class="welcome__ground"></div>
+        </div>
+
+        <button
+          type="button"
+          class="btn-primary welcome__start"
+          data-i18n="startButton"
+          onclick="startFromWelcome()"
+        >
+          開始
+        </button>
+      </div>
+    </section>
+
+    <!-- 2. 主頁 -->
+    <section id="screen-home" class="screen" data-screen data-topbar>
+      <div class="screen__inner">
+        <div class="home-grid">
+          <button
+            type="button"
+            class="btn-primary home-grid__btn"
+            onclick="renderPinyinMatrix()"
+          >
+            <span class="home-grid__icon" aria-hidden="true">📖</span>
+            <span data-i18n="homePinyinTable">拼音表</span>
+          </button>
+          <button
+            type="button"
+            class="btn-primary home-grid__btn"
+            onclick="startMode1()"
+          >
+            <span class="home-grid__icon" aria-hidden="true">🥕</span>
+            <span data-i18n="homeMode1">遊戲模式 1</span>
+          </button>
+          <button
+            type="button"
+            class="btn-primary home-grid__btn"
+            onclick="startMode2()"
+          >
+            <span class="home-grid__icon" aria-hidden="true">🌸</span>
+            <span data-i18n="homeMode2">遊戲模式 2</span>
+          </button>
+          <button
+            type="button"
+            class="btn-primary home-grid__btn"
+            onclick="startMode3()"
+          >
+            <span class="home-grid__icon" aria-hidden="true">🌿</span>
+            <span data-i18n="homeMode3">遊戲模式 3</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. 拼音總表（聲母 × 韻母矩陣）-->
+    <section id="screen-pinyin" class="screen" data-screen>
+      <div class="screen__inner pinyin">
+        <div class="pinyin__bar">
+          <button
+            type="button"
+            class="btn-back"
+            onclick="showScreen('screen-home')"
+            data-i18n-aria="backToHome"
+            aria-label="返回主頁"
+          >
+            <span class="btn-back__arrow" aria-hidden="true">←</span>
+            <span class="btn-back__home" aria-hidden="true">🏠</span>
+          </button>
+
+          <!-- 聲調切換：預設第一聲 -->
+          <div class="tone-switcher" role="group" data-i18n-aria="toneSelectGroup" aria-label="選擇聲調">
+            <button type="button" class="tone-btn is-active" data-tone="1" data-i18n-aria="tone1" aria-label="第一聲">ˉ</button>
+            <button type="button" class="tone-btn" data-tone="2" data-i18n-aria="tone2" aria-label="第二聲">ˊ</button>
+            <button type="button" class="tone-btn" data-tone="3" data-i18n-aria="tone3" aria-label="第三聲">ˇ</button>
+            <button type="button" class="tone-btn" data-tone="4" data-i18n-aria="tone4" aria-label="第四聲">ˋ</button>
+          </div>
+        </div>
+
+        <h2 class="pinyin__title" data-i18n="pinyinTitle">拼音總表</h2>
+
+        <!-- 矩陣：雙向捲動，表頭與聲母欄 sticky。表格由 app.js 產生 -->
+        <div id="pinyin-matrix" class="pinyin-matrix" tabindex="0" role="region" data-i18n-aria="matrixRegionLabel" aria-label="拼音聲母韻母矩陣"></div>
+      </div>
+    </section>
+
+    <!-- 4. 遊戲模式 1（聽音辨拼音）-->
+    <section id="screen-mode1" class="screen" data-screen>
+      <div class="screen__inner mode1">
+        <!-- 4a. 遊戲進行畫面 -->
+        <div id="mode1-play" class="mode1__play">
+          <button
+            type="button"
+            class="btn-back"
+            onclick="mode1Exit()"
+            data-i18n-aria="backToHome"
+            aria-label="返回主頁"
+          >
+            <span class="btn-back__arrow" aria-hidden="true">←</span>
+            <span class="btn-back__home" aria-hidden="true">🏠</span>
+          </button>
+
+          <!-- 兔子進度條：兔子位置 + 1~10 題號刻度，不顯示分數 -->
+          <div class="rabbit-progress" role="group" data-i18n-aria="progressLabel" aria-label="答題進度">
+            <div class="rabbit-progress-track" aria-hidden="true">
+              <div id="mode1-rabbit" class="rabbit-progress-icon" style="--rabbit-pos: 0;">
+                <img
+                  class="rabbit-progress-icon__img"
+                  src="assets/images/rabbit.png"
+                  alt=""
+                  onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                />
+                <span class="rabbit-progress-icon__fallback">🐰</span>
+              </div>
+            </div>
+            <!-- 1~10 刻度，由 app.js 依總題數產生 -->
+            <ol id="mode1-progress-ticks" class="rabbit-progress__ticks" aria-hidden="true"></ol>
+          </div>
+
+          <!-- 播放按鈕：可重複點擊重播 -->
+          <button
+            type="button"
+            id="mode1-play-btn"
+            class="play-btn"
+            onclick="mode1PlayAudio()"
+            data-i18n-aria="playPrompt"
+            aria-label="播放題目讀音"
+          >
+            <span aria-hidden="true">🔊</span>
+          </button>
+
+          <!-- 4 個選項（2x2），內容由 app.js 動態產生 -->
+          <div id="mode1-options" class="option-grid"></div>
+
+          <!-- 答題後才出現：玩家點擊才進入下一題 -->
+          <button
+            type="button"
+            id="mode1-next-btn"
+            class="btn-primary mode-next-btn"
+            onclick="mode1Next()"
+            data-i18n="nextQuestion"
+            hidden
+          >
+            下一題
+          </button>
+        </div>
+
+        <!-- 4b. 結果畫面（同一容器內切換，不另開 screen）-->
+        <div id="mode1-result" class="mode1__result card" hidden>
+          <p class="mode1__score">
+            <span class="mode1__score-check" aria-hidden="true">✓</span>
+            <span id="mode1-score">0</span> / <span id="mode1-total">10</span>
+          </p>
+          <div class="mode1__result-actions">
+            <button type="button" class="btn-primary" onclick="startMode1()">
+              <span class="btn-icon" aria-hidden="true">🔄</span>
+              <span data-i18n="playAgain">再玩一次</span>
+            </button>
+            <button
+              type="button"
+              class="btn-secondary"
+              onclick="mode1Exit()"
+            >
+              <span class="btn-icon" aria-hidden="true">🏠</span>
+              <span data-i18n="backToHome">返回主頁</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. 遊戲模式 2（聲調大考驗）-->
+    <section id="screen-mode2" class="screen" data-screen>
+      <div class="screen__inner mode2">
+        <!-- 5a. 遊戲進行畫面 -->
+        <div id="mode2-play" class="mode2__play">
+          <button
+            type="button"
+            class="btn-back"
+            onclick="mode2Exit()"
+            data-i18n-aria="backToHome"
+            aria-label="返回主頁"
+          >
+            <span class="btn-back__arrow" aria-hidden="true">←</span>
+            <span class="btn-back__home" aria-hidden="true">🏠</span>
+          </button>
+
+          <!-- 兔子進度條：兔子位置 + 1~10 題號刻度，不顯示分數 -->
+          <div class="rabbit-progress" role="group" data-i18n-aria="progressLabel" aria-label="答題進度">
+            <div class="rabbit-progress-track" aria-hidden="true">
+              <div id="mode2-rabbit" class="rabbit-progress-icon" style="--rabbit-pos: 0;">
+                <img
+                  class="rabbit-progress-icon__img"
+                  src="assets/images/rabbit.png"
+                  alt=""
+                  onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                />
+                <span class="rabbit-progress-icon__fallback">🐰</span>
+              </div>
+            </div>
+            <!-- 1~10 刻度，由 app.js 依總題數產生 -->
+            <ol id="mode2-progress-ticks" class="rabbit-progress__ticks" aria-hidden="true"></ol>
+          </div>
+
+          <!-- 播放按鈕：可重複點擊重播該題讀音 -->
+          <button
+            type="button"
+            id="mode2-play-btn"
+            class="play-btn"
+            onclick="mode2PlayAudio()"
+            data-i18n-aria="replayPrompt"
+            aria-label="重新播放讀音"
+          >
+            <span aria-hidden="true">🔊</span>
+          </button>
+
+          <!-- 4 個聲調選項（2x2），內容由 app.js 動態產生 -->
+          <div id="mode2-options" class="option-grid"></div>
+
+          <!-- 答題後才出現：玩家點擊才進入下一題 -->
+          <button
+            type="button"
+            id="mode2-next-btn"
+            class="btn-primary mode-next-btn"
+            onclick="mode2Next()"
+            data-i18n="nextQuestion"
+            hidden
+          >
+            下一題
+          </button>
+        </div>
+
+        <!-- 5b. 結果畫面（同一容器內切換，不另開 screen）-->
+        <div id="mode2-result" class="mode2__result card" hidden>
+          <p class="mode2__score">
+            <span class="mode2__score-check" aria-hidden="true">✓</span>
+            <span id="mode2-score">0</span> / <span id="mode2-total">10</span>
+          </p>
+          <div class="mode2__result-actions">
+            <button type="button" class="btn-primary" onclick="startMode2()">
+              <span class="btn-icon" aria-hidden="true">🔄</span>
+              <span data-i18n="playAgain">再玩一次</span>
+            </button>
+            <button type="button" class="btn-secondary" onclick="mode2Exit()">
+              <span class="btn-icon" aria-hidden="true">🏠</span>
+              <span data-i18n="backToHome">返回主頁</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. 遊戲模式 3（聽音選拼音 — 詞語版）-->
+    <section id="screen-mode3" class="screen" data-screen>
+      <div class="screen__inner mode3">
+        <!-- 6a. 遊戲進行畫面 -->
+        <div id="mode3-play" class="mode3__play">
+          <button
+            type="button"
+            class="btn-back"
+            onclick="mode3Exit()"
+            data-i18n-aria="backToHome"
+            aria-label="返回主頁"
+          >
+            <span class="btn-back__arrow" aria-hidden="true">←</span>
+            <span class="btn-back__home" aria-hidden="true">🏠</span>
+          </button>
+
+          <!-- 兔子進度條：與模式 1、2 完全一致 -->
+          <div class="rabbit-progress" role="group" data-i18n-aria="progressLabel" aria-label="答題進度">
+            <div class="rabbit-progress-track" aria-hidden="true">
+              <div id="mode3-rabbit" class="rabbit-progress-icon" style="--rabbit-pos: 0;">
+                <img
+                  class="rabbit-progress-icon__img"
+                  src="assets/images/rabbit.png"
+                  alt=""
+                  onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                />
+                <span class="rabbit-progress-icon__fallback">🐰</span>
+              </div>
+            </div>
+            <!-- 1~10 刻度，由 app.js 依總題數產生 -->
+            <ol id="mode3-progress-ticks" class="rabbit-progress__ticks" aria-hidden="true"></ol>
+          </div>
+
+          <!-- 播放按鈕：可重複點擊重播該題讀音 -->
+          <button
+            type="button"
+            id="mode3-play-btn"
+            class="play-btn"
+            onclick="mode3PlayAudio()"
+            data-i18n-aria="replayPrompt"
+            aria-label="重新播放讀音"
+          >
+            <span aria-hidden="true">🔊</span>
+          </button>
+
+          <!-- 4 個詞語拼音選項（2x2），內容由 app.js 動態產生 -->
+          <div id="mode3-options" class="option-grid"></div>
+
+          <!-- 答題後才出現：玩家點擊才進入下一題 -->
+          <button
+            type="button"
+            id="mode3-next-btn"
+            class="btn-primary mode-next-btn"
+            onclick="mode3Next()"
+            data-i18n="nextQuestion"
+            hidden
+          >
+            下一題
+          </button>
+        </div>
+
+        <!-- 6b. 結果畫面（同一容器內切換，不另開 screen）-->
+        <div id="mode3-result" class="mode3__result card" hidden>
+          <p class="mode3__score">
+            <span class="mode3__score-check" aria-hidden="true">✓</span>
+            <span id="mode3-score">0</span> / <span id="mode3-total">10</span>
+          </p>
+          <div class="mode3__result-actions">
+            <button type="button" class="btn-primary" onclick="startMode3()">
+              <span class="btn-icon" aria-hidden="true">🔄</span>
+              <span data-i18n="playAgain">再玩一次</span>
+            </button>
+            <button type="button" class="btn-secondary" onclick="mode3Exit()">
+              <span class="btn-icon" aria-hidden="true">🏠</span>
+              <span data-i18n="backToHome">返回主頁</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 7. 設定頁（保留頂部列）-->
+    <section id="screen-settings" class="screen" data-screen data-topbar>
+      <div class="screen__inner settings">
+        <button
+          type="button"
+          class="btn-back"
+          onclick="showScreen('screen-home')"
+          data-i18n-aria="backToHome"
+          aria-label="返回主頁"
+        >
+          <span class="btn-back__arrow" aria-hidden="true">←</span>
+          <span class="btn-back__home" aria-hidden="true">🏠</span>
+        </button>
+        <h2 class="screen__title" data-i18n="navSettings">設定</h2>
+
+        <!-- 音效設定 -->
+        <div class="settings-block card">
+          <h3 class="settings-block__title" data-i18n="settingsAudioSection">音效設定</h3>
+
+          <div class="settings-row">
+            <span class="settings-row__label" id="set-sfx-label" data-i18n="settingsSoundEffects">音效</span>
+            <label class="switch">
+              <input
+                type="checkbox"
+                id="set-sfx-toggle"
+                aria-labelledby="set-sfx-label"
+                onchange="updateSetting('sfxEnabled', this.checked)"
+              />
+              <span class="switch__slider" aria-hidden="true"></span>
+            </label>
+          </div>
+          <div class="settings-row settings-row--slider" id="set-sfx-row">
+            <input
+              type="range" min="0" max="100" step="1" class="slider"
+              id="set-sfx-volume"
+              data-i18n-aria="settingsSfxVolume" aria-label="音效音量"
+              oninput="updateSetting('sfxVolume', Number(this.value))"
+            />
+            <span class="settings-row__pct" id="set-sfx-pct">70%</span>
+          </div>
+
+          <div class="settings-row">
+            <span class="settings-row__label" id="set-bgm-label" data-i18n="settingsMusic">背景音樂</span>
+            <label class="switch">
+              <input
+                type="checkbox"
+                id="set-bgm-toggle"
+                aria-labelledby="set-bgm-label"
+                onchange="updateSetting('bgmEnabled', this.checked)"
+              />
+              <span class="switch__slider" aria-hidden="true"></span>
+            </label>
+          </div>
+          <div class="settings-row settings-row--slider" id="set-bgm-row">
+            <input
+              type="range" min="0" max="100" step="1" class="slider"
+              id="set-bgm-volume"
+              data-i18n-aria="settingsBgmVolume" aria-label="背景音樂音量"
+              oninput="updateSetting('bgmVolume', Number(this.value))"
+            />
+            <span class="settings-row__pct" id="set-bgm-pct">70%</span>
+          </div>
+        </div>
+
+        <!-- 語言設定 -->
+        <div class="settings-block card">
+          <h3 class="settings-block__title" id="set-lang-title" data-i18n="settingsLanguage">介面語言</h3>
+          <ul class="lang-list" id="set-lang-list" role="listbox" aria-labelledby="set-lang-title">
+            <!-- 語言名稱一律用該語言本身書寫，不翻譯；清單由 app.js 產生 -->
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="ui-strings.js"></script>
+  <script src="mode1-questions.js"></script>
+  <script src="mode2-questions.js"></script>
+  <script src="mode3-questions.js"></script>
+  <script src="pinyin-matrix-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
