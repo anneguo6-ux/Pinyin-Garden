@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export GKEY=\"AIzaSyC6V4VdItDf4NhosczETDP1N6BOBmJ_nPE\")",
+      "Bash(node -e ' *)"
+    ]
+  }
+}
