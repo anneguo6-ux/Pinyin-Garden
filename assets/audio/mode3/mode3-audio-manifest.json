@@ -1,0 +1,5078 @@
+[
+  {
+    "file": "assets/audio/mode3/a1yi2.mp3",
+    "word": "阿姨",
+    "pinyin": "āyí",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/an1quan2.mp3",
+    "word": "安全",
+    "pinyin": "ānquán",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ba1shi4.mp3",
+    "word": "巴士",
+    "pinyin": "bāshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ba4ba5.mp3",
+    "word": "爸爸",
+    "pinyin": "bàba",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/bai2tian1.mp3",
+    "word": "白天",
+    "pinyin": "báitiān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bai3huo4gong1si1.mp3",
+    "word": "百貨公司",
+    "pinyin": "bǎihuògōngsī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ban1ci4.mp3",
+    "word": "班次",
+    "pinyin": "bāncì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ban1jia1.mp3",
+    "word": "搬家",
+    "pinyin": "bānjiā",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ban4fa3.mp3",
+    "word": "辦法",
+    "pinyin": "bànfǎ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ban4gong1shi4.mp3",
+    "word": "辦公室",
+    "pinyin": "bàngōngshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ban4ye4.mp3",
+    "word": "半夜",
+    "pinyin": "bànyè",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bang1mang2.mp3",
+    "word": "幫忙",
+    "pinyin": "bāngmáng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bang1zhu4.mp3",
+    "word": "幫助",
+    "pinyin": "bāngzhù",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bang4qiu2.mp3",
+    "word": "棒球",
+    "pinyin": "bàngqiú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bao1gua1.mp3",
+    "word": "包括",
+    "pinyin": "bāoguā",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bao1zi5.mp3",
+    "word": "包子",
+    "pinyin": "bāozi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/bao3hu4.mp3",
+    "word": "保護",
+    "pinyin": "bǎohù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bao4gao4.mp3",
+    "word": "報告",
+    "pinyin": "bàogào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bao4zhi3.mp3",
+    "word": "報紙",
+    "pinyin": "bàozhǐ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bei1bao1.mp3",
+    "word": "背包",
+    "pinyin": "bēibāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bei1zi5.mp3",
+    "word": "杯子",
+    "pinyin": "bēizi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/bei3bu4.mp3",
+    "word": "北部",
+    "pinyin": "běibù",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ben3lai2.mp3",
+    "word": "本來",
+    "pinyin": "běnlái",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ben3zi5.mp3",
+    "word": "本子",
+    "pinyin": "běnzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bi2shui3.mp3",
+    "word": "鼻水",
+    "pinyin": "bíshuǐ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bi2zi5.mp3",
+    "word": "鼻子",
+    "pinyin": "bízi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/bi3fang1.mp3",
+    "word": "比方",
+    "pinyin": "bǐfāng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bi3fang1shuo1.mp3",
+    "word": "比方說",
+    "pinyin": "bǐfāngshuō",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bi3jiao4.mp3",
+    "word": "比較",
+    "pinyin": "bǐjiào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bi3sai4.mp3",
+    "word": "比賽",
+    "pinyin": "bǐsài",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bi4xu1.mp3",
+    "word": "必須",
+    "pinyin": "bìxū",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bi4ye4.mp3",
+    "word": "畢業",
+    "pinyin": "bìyè",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bian4dang1.mp3",
+    "word": "便當",
+    "pinyin": "biàndāng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bian4li4shang1dian4.mp3",
+    "word": "便利商店",
+    "pinyin": "biànlìshāngdiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/biao1zhun3.mp3",
+    "word": "標準",
+    "pinyin": "biāozhǔn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bie2de5.mp3",
+    "word": "別的",
+    "pinyin": "biéde",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bie2ren2.mp3",
+    "word": "別人",
+    "pinyin": "biérén",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bing1kuai4.mp3",
+    "word": "冰塊",
+    "pinyin": "bīngkuài",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bing1qi2lin2.mp3",
+    "word": "冰淇淋",
+    "pinyin": "bīngqílín",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bing1xiang1.mp3",
+    "word": "冰箱",
+    "pinyin": "bīngxiāng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bing3gan1.mp3",
+    "word": "餅乾",
+    "pinyin": "bǐnggān",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bing4ren2.mp3",
+    "word": "病人",
+    "pinyin": "bìngrén",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bo2bo5.mp3",
+    "word": "伯伯",
+    "pinyin": "bóbo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bo2fu4.mp3",
+    "word": "伯父",
+    "pinyin": "bófù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bo2mu3.mp3",
+    "word": "伯母",
+    "pinyin": "bómǔ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2bi4.mp3",
+    "word": "不必",
+    "pinyin": "búbì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2cuo4.mp3",
+    "word": "不錯",
+    "pinyin": "búcuò",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2dan4.mp3",
+    "word": "不但",
+    "pinyin": "búdàn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2guo4.mp3",
+    "word": "不過",
+    "pinyin": "búguò",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2ke4qi4.mp3",
+    "word": "不客氣",
+    "pinyin": "búkèqì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu2yong4.mp3",
+    "word": "不用",
+    "pinyin": "búyòng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4de2liao3.mp3",
+    "word": "不得了",
+    "pinyin": "bùdéliǎo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4fen4.mp3",
+    "word": "部分",
+    "pinyin": "bùfèn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4guan3.mp3",
+    "word": "不管",
+    "pinyin": "bùguǎn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4hao3yi4si5.mp3",
+    "word": "不好意思",
+    "pinyin": "bùhǎoyìsi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4jian4le5.mp3",
+    "word": "不見了",
+    "pinyin": "bùjiànle",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/bu4tong2.mp3",
+    "word": "不同",
+    "pinyin": "bùtóng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/cai4dan1.mp3",
+    "word": "菜單",
+    "pinyin": "càidān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/can1guan1.mp3",
+    "word": "參觀",
+    "pinyin": "cānguān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/can1jia1.mp3",
+    "word": "參加",
+    "pinyin": "cānjiā",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/can1ting1.mp3",
+    "word": "餐廳",
+    "pinyin": "cāntīng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/can1zhuo1.mp3",
+    "word": "餐桌",
+    "pinyin": "cānzhuō",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/cao3mei2.mp3",
+    "word": "草莓",
+    "pinyin": "cǎoméi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ce4suo3.mp3",
+    "word": "廁所",
+    "pinyin": "cèsuǒ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/cha1bu4duo1.mp3",
+    "word": "差不多",
+    "pinyin": "chābùduō",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/cha1zi5.mp3",
+    "word": "叉子",
+    "pinyin": "chāzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/cha2guan3.mp3",
+    "word": "茶館",
+    "pinyin": "cháguǎn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/chang2chang2.mp3",
+    "word": "常常",
+    "pinyin": "chángcháng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/chang4ge1.mp3",
+    "word": "唱歌",
+    "pinyin": "chànggē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/chao1ji2shi4chang3.mp3",
+    "word": "超級市場",
+    "pinyin": "chāojíshìchǎng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/chao1shang1.mp3",
+    "word": "超商",
+    "pinyin": "chāoshāng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/chao1shi4.mp3",
+    "word": "超市",
+    "pinyin": "chāoshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/che1zhan4.mp3",
+    "word": "車站",
+    "pinyin": "chēzhàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/che1zi5.mp3",
+    "word": "車子",
+    "pinyin": "chēzi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/cheng2du4.mp3",
+    "word": "程度",
+    "pinyin": "chéngdù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/cheng2gong1.mp3",
+    "word": "成功",
+    "pinyin": "chénggōng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/cheng2ji1.mp3",
+    "word": "成績",
+    "pinyin": "chéngjī",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/cheng2shi4.mp3",
+    "word": "城市",
+    "pinyin": "chéngshì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chi1fan4.mp3",
+    "word": "吃飯",
+    "pinyin": "chīfàn",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/chi2dao4.mp3",
+    "word": "遲到",
+    "pinyin": "chídào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chu1guo2.mp3",
+    "word": "出國",
+    "pinyin": "chūguó",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chu1kou3.mp3",
+    "word": "出口",
+    "pinyin": "chūkǒu",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chu1men2.mp3",
+    "word": "出門",
+    "pinyin": "chūmén",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chu1sheng1.mp3",
+    "word": "出生",
+    "pinyin": "chūshēng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/chu2fang2.mp3",
+    "word": "廚房",
+    "pinyin": "chúfáng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chu2le5.mp3",
+    "word": "除了",
+    "pinyin": "chúle",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/chuan2tong3.mp3",
+    "word": "傳統",
+    "pinyin": "chuántǒng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chuang1hu4.mp3",
+    "word": "窗戶",
+    "pinyin": "chuānghù",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/chuang1zi5.mp3",
+    "word": "窗子",
+    "pinyin": "chuāngzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/chun1ji4.mp3",
+    "word": "春季",
+    "pinyin": "chūnjì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/chun1jia4.mp3",
+    "word": "春假",
+    "pinyin": "chūnjià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/chun1jie2.mp3",
+    "word": "春節",
+    "pinyin": "chūnjié",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/chun1tian1.mp3",
+    "word": "春天",
+    "pinyin": "chūntiān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/chu2xi4.mp3",
+    "word": "除夕",
+    "pinyin": "chúxì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/cong1ming2.mp3",
+    "word": "聰明",
+    "pinyin": "cōngmíng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/cong2lai2.mp3",
+    "word": "從來",
+    "pinyin": "cónglái",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/cong2qian2.mp3",
+    "word": "從前",
+    "pinyin": "cóngqián",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/da2an4.mp3",
+    "word": "答案",
+    "pinyin": "dáàn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/da3gong1.mp3",
+    "word": "打工",
+    "pinyin": "dǎgōng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/da3suan4.mp3",
+    "word": "打算",
+    "pinyin": "dǎsuàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/da3zhe2.mp3",
+    "word": "打折",
+    "pinyin": "dǎzhé",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/da4gai4.mp3",
+    "word": "大概",
+    "pinyin": "dàgài",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/da4jia1.mp3",
+    "word": "大家",
+    "pinyin": "dàjiā",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/da4lou2.mp3",
+    "word": "大樓",
+    "pinyin": "dàlóu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/da4lu4.mp3",
+    "word": "大陸",
+    "pinyin": "dàlù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/da4men2.mp3",
+    "word": "大門",
+    "pinyin": "dàmén",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/da4ren2.mp3",
+    "word": "大人",
+    "pinyin": "dàrén",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/da4xue2.mp3",
+    "word": "大學",
+    "pinyin": "dàxué",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/da4xue2sheng1.mp3",
+    "word": "大學生",
+    "pinyin": "dàxuéshēng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/da4yi1.mp3",
+    "word": "大衣",
+    "pinyin": "dàyī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dai4lai2.mp3",
+    "word": "帶來",
+    "pinyin": "dàilái",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/dai4zi5.mp3",
+    "word": "袋子",
+    "pinyin": "dàizi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dan1xin1.mp3",
+    "word": "擔心",
+    "pinyin": "dānxīn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/dan4gao1.mp3",
+    "word": "蛋糕",
+    "pinyin": "dàngāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dan4shi4.mp3",
+    "word": "但是",
+    "pinyin": "dànshì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/dang1ran2.mp3",
+    "word": "當然",
+    "pinyin": "dāngrán",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/dang1shi2.mp3",
+    "word": "當時",
+    "pinyin": "dāngshí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/dang1zhong1.mp3",
+    "word": "當中",
+    "pinyin": "dāngzhōng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/dao1zi5.mp3",
+    "word": "刀子",
+    "pinyin": "dāozi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dao4chu4.mp3",
+    "word": "到處",
+    "pinyin": "dàochù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/de2dao4.mp3",
+    "word": "得到",
+    "pinyin": "dédào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/de2guo2.mp3",
+    "word": "德國",
+    "pinyin": "déguó",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/de2wen2.mp3",
+    "word": "德文",
+    "pinyin": "déwén",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/deng3dao4.mp3",
+    "word": "等到",
+    "pinyin": "děngdào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/deng3deng3.mp3",
+    "word": "等等",
+    "pinyin": "děngděng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/di1tou2.mp3",
+    "word": "低頭",
+    "pinyin": "dītóu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/di3xia4.mp3",
+    "word": "底下",
+    "pinyin": "dǐxià",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/di4di5.mp3",
+    "word": "弟弟",
+    "pinyin": "dìdi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/di4dian3.mp3",
+    "word": "地點",
+    "pinyin": "dìdiǎn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/di4fang1.mp3",
+    "word": "地方",
+    "pinyin": "dìfāng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/di4tie3.mp3",
+    "word": "地鐵",
+    "pinyin": "dìtiě",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/di4tu2.mp3",
+    "word": "地圖",
+    "pinyin": "dìtú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/di4yi1.mp3",
+    "word": "第一",
+    "pinyin": "dìyī",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/di4zhi3.mp3",
+    "word": "地址",
+    "pinyin": "dìzhǐ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian3xin1.mp3",
+    "word": "點心",
+    "pinyin": "diǎnxīn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4hua4.mp3",
+    "word": "電話",
+    "pinyin": "diànhuà",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4nao3.mp3",
+    "word": "電腦",
+    "pinyin": "diànnǎo",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4shi4.mp3",
+    "word": "電視",
+    "pinyin": "diànshì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4ti1.mp3",
+    "word": "電梯",
+    "pinyin": "diàntī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4ying3.mp3",
+    "word": "電影",
+    "pinyin": "diànyǐng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4ying3yuan4.mp3",
+    "word": "電影院",
+    "pinyin": "diànyǐngyuàn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/dian4yuan2.mp3",
+    "word": "店員",
+    "pinyin": "diànyuán",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ding4wei4.mp3",
+    "word": "訂位",
+    "pinyin": "dìngwèi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/dong1fang1.mp3",
+    "word": "東方",
+    "pinyin": "dōngfāng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/dong1tian1.mp3",
+    "word": "冬天",
+    "pinyin": "dōngtiān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/dong1xi5.mp3",
+    "word": "東西",
+    "pinyin": "dōngxi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/dou4fu3.mp3",
+    "word": "豆腐",
+    "pinyin": "dòufǔ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/dou4jiang1.mp3",
+    "word": "豆漿",
+    "pinyin": "dòujiāng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/dou4zi5.mp3",
+    "word": "豆子",
+    "pinyin": "dòuzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/du2shu1.mp3",
+    "word": "讀書",
+    "pinyin": "dúshū",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/du4zi5.mp3",
+    "word": "肚子",
+    "pinyin": "dùzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/dui4bu4qi3.mp3",
+    "word": "對不起",
+    "pinyin": "duìbùqǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/dui4mian4.mp3",
+    "word": "對面",
+    "pinyin": "duìmiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/duo1jiu3.mp3",
+    "word": "多久",
+    "pinyin": "duōjiǔ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/duo1shao3.mp3",
+    "word": "多少",
+    "pinyin": "duōshǎo",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/duo1me5.mp3",
+    "word": "多麼",
+    "pinyin": "duōme",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/er2qie3.mp3",
+    "word": "而且",
+    "pinyin": "érqiě",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/er2zi5.mp3",
+    "word": "兒子",
+    "pinyin": "érzi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/er3duo5.mp3",
+    "word": "耳朵",
+    "pinyin": "ěrduo",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/er3ji1.mp3",
+    "word": "耳機",
+    "pinyin": "ěrjī",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fa1shao1.mp3",
+    "word": "發燒",
+    "pinyin": "fāshāo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fa1sheng1.mp3",
+    "word": "發生",
+    "pinyin": "fāshēng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fa1xian4.mp3",
+    "word": "發現",
+    "pinyin": "fāxiàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/fa3guo2.mp3",
+    "word": "法國",
+    "pinyin": "fǎguó",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/fa3lv4.mp3",
+    "word": "法律",
+    "pinyin": "fǎlǜ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fa3wen2.mp3",
+    "word": "法文",
+    "pinyin": "fǎwén",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/fan1qie2.mp3",
+    "word": "番茄",
+    "pinyin": "fānqié",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fan4dian4.mp3",
+    "word": "飯店",
+    "pinyin": "fàndiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/fan4ting1.mp3",
+    "word": "飯廳",
+    "pinyin": "fàntīng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang1bian4.mp3",
+    "word": "方便",
+    "pinyin": "fāngbiàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang1fa3.mp3",
+    "word": "方法",
+    "pinyin": "fāngfǎ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/fang1mian4.mp3",
+    "word": "方面",
+    "pinyin": "fāngmiàn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang1xiang4.mp3",
+    "word": "方向",
+    "pinyin": "fāngxiàng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang2dong1.mp3",
+    "word": "房東",
+    "pinyin": "fángdōng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang2jian1.mp3",
+    "word": "房間",
+    "pinyin": "fángjiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang2wu1.mp3",
+    "word": "房屋",
+    "pinyin": "fángwū",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang2zi5.mp3",
+    "word": "房子",
+    "pinyin": "fángzi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang2zu1.mp3",
+    "word": "房租",
+    "pinyin": "fáng zū",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/fang4jia4.mp3",
+    "word": "放假",
+    "pinyin": "fàngjià",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fang4xin1.mp3",
+    "word": "放心",
+    "pinyin": "fàngxīn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fei1chang2.mp3",
+    "word": "非常",
+    "pinyin": "fēicháng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fei1ji1.mp3",
+    "word": "飛機",
+    "pinyin": "fēijī",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fei1zhou1.mp3",
+    "word": "非洲",
+    "pinyin": "fēizhōu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/fei2zao4.mp3",
+    "word": "肥皂",
+    "pinyin": "féizào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fen1zhong1.mp3",
+    "word": "分鐘",
+    "pinyin": "fēnzhōng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/feng1jing3.mp3",
+    "word": "風景",
+    "pinyin": "fēngjǐng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/feng4li2.mp3",
+    "word": "鳳梨",
+    "pinyin": "fènglí",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fu2wu4.mp3",
+    "word": "服務",
+    "pinyin": "fúwù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fu4jin4.mp3",
+    "word": "附近",
+    "pinyin": "fùjìn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/fu4mu3.mp3",
+    "word": "父母",
+    "pinyin": "fùmǔ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/fu4qin1.mp3",
+    "word": "父親",
+    "pinyin": "fùqīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/gan1jing4.mp3",
+    "word": "乾淨",
+    "pinyin": "gānjìng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/gan3jue2.mp3",
+    "word": "感覺",
+    "pinyin": "gǎnjué",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gan3kuai4.mp3",
+    "word": "趕快",
+    "pinyin": "gǎnkuài",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/gan3mao4.mp3",
+    "word": "感冒",
+    "pinyin": "gǎnmào",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/gang1cai2.mp3",
+    "word": "剛才",
+    "pinyin": "gāngcái",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/gang1gang1.mp3",
+    "word": "剛剛",
+    "pinyin": "gānggāng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/gang1hao3.mp3",
+    "word": "剛好",
+    "pinyin": "gānghǎo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gao1ji2.mp3",
+    "word": "高級",
+    "pinyin": "gāojí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gao1xing4.mp3",
+    "word": "高興",
+    "pinyin": "gāoxìng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/gao1zhong1.mp3",
+    "word": "高中",
+    "pinyin": "gāozhōng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/gao4su4.mp3",
+    "word": "告訴",
+    "pinyin": "gàosù",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ge1ge5.mp3",
+    "word": "哥哥",
+    "pinyin": "gēge",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1che1.mp3",
+    "word": "公車",
+    "pinyin": "gōngchē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1gong4qi4che1.mp3",
+    "word": "公共汽車",
+    "pinyin": "gōnggòngqìchē",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1ke4.mp3",
+    "word": "功課",
+    "pinyin": "gōngkè",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1lu4.mp3",
+    "word": "公路",
+    "pinyin": "gōnglù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1ren2.mp3",
+    "word": "工人",
+    "pinyin": "gōngrén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1si1.mp3",
+    "word": "公司",
+    "pinyin": "gōngsī",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1yuan2.mp3",
+    "word": "公園",
+    "pinyin": "gōngyuán",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/gong1zuo4.mp3",
+    "word": "工作",
+    "pinyin": "gōngzuò",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/gu1gu5.mp3",
+    "word": "姑姑",
+    "pinyin": "gūgu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gu1ma1.mp3",
+    "word": "姑媽",
+    "pinyin": "gūmā",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/gu4shi4.mp3",
+    "word": "故事",
+    "pinyin": "gùshì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/guan1xi4.mp3",
+    "word": "關係",
+    "pinyin": "guānxì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/guan1xin1.mp3",
+    "word": "關心",
+    "pinyin": "guānxīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/guang4jie1.mp3",
+    "word": "逛街",
+    "pinyin": "guàngjiē",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/gui4zi5.mp3",
+    "word": "櫃子",
+    "pinyin": "guìzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/guo2jia1.mp3",
+    "word": "國家",
+    "pinyin": "guójiā",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/guo2xiao3.mp3",
+    "word": "國小",
+    "pinyin": "guóxiǎo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/guo3zhi1.mp3",
+    "word": "果汁",
+    "pinyin": "guǒzhī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/guo4nian2.mp3",
+    "word": "過年",
+    "pinyin": "guònián",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/hai2hao3.mp3",
+    "word": "還好",
+    "pinyin": "háihǎo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hai2shi4.mp3",
+    "word": "還是",
+    "pinyin": "háishì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/hai2zi5.mp3",
+    "word": "孩子",
+    "pinyin": "háizi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/hai3xian1.mp3",
+    "word": "海鮮",
+    "pinyin": "hǎixiān",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hai4pa4.mp3",
+    "word": "害怕",
+    "pinyin": "hàipà",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/han2guo2.mp3",
+    "word": "韓國",
+    "pinyin": "hánguó",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/han2jia4.mp3",
+    "word": "寒假",
+    "pinyin": "hánjià",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/han4bao3.mp3",
+    "word": "漢堡",
+    "pinyin": "hànbǎo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/han4zi4.mp3",
+    "word": "漢字",
+    "pinyin": "hànzì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hao3chu4.mp3",
+    "word": "好處",
+    "pinyin": "hǎochù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hao3xiang4.mp3",
+    "word": "好像",
+    "pinyin": "hǎoxiàng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/hao4ma3.mp3",
+    "word": "號碼",
+    "pinyin": "hàomǎ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/he2shi4.mp3",
+    "word": "合適",
+    "pinyin": "héshì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/he2zi5.mp3",
+    "word": "盒子",
+    "pinyin": "hézi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/he2zuo4.mp3",
+    "word": "合作",
+    "pinyin": "hézuò",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/hei1ban3.mp3",
+    "word": "黑板",
+    "pinyin": "hēibǎn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hong2cha2.mp3",
+    "word": "紅茶",
+    "pinyin": "hóngchá",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/hou4lai2.mp3",
+    "word": "後來",
+    "pinyin": "hòulái",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/hou4nian2.mp3",
+    "word": "後年",
+    "pinyin": "hòunián",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/hou4tian1.mp3",
+    "word": "後天",
+    "pinyin": "hòutiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/hu4shi4.mp3",
+    "word": "護士",
+    "pinyin": "hùshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/hua1r.mp3",
+    "word": "花兒",
+    "pinyin": "huār",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/hua2yu3.mp3",
+    "word": "華語",
+    "pinyin": "huáyǔ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hua4jia1.mp3",
+    "word": "畫家",
+    "pinyin": "huàjiā",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/huai4chu4.mp3",
+    "word": "壞處",
+    "pinyin": "huàichù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/huan1ying2.mp3",
+    "word": "歡迎",
+    "pinyin": "huānyíng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/huan2bao3.mp3",
+    "word": "環保",
+    "pinyin": "huánbǎo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/huan2jing4.mp3",
+    "word": "環境",
+    "pinyin": "huánjìng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hui2da2.mp3",
+    "word": "回答",
+    "pinyin": "huídá",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/hui2dao4.mp3",
+    "word": "回到",
+    "pinyin": "huídào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/hui2xin4.mp3",
+    "word": "回信",
+    "pinyin": "huíxìn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/huo2dong4.mp3",
+    "word": "活動",
+    "pinyin": "huódòng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/huo3che1.mp3",
+    "word": "火車",
+    "pinyin": "huǒchē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/huo3tui3.mp3",
+    "word": "火腿",
+    "pinyin": "huǒtuǐ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/huo4shi4.mp3",
+    "word": "或是",
+    "pinyin": "huòshì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/huo4zhe3.mp3",
+    "word": "或者",
+    "pinyin": "huòzhě",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ji1chang3.mp3",
+    "word": "機場",
+    "pinyin": "jīchǎng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ji1che1.mp3",
+    "word": "機車",
+    "pinyin": "jīchē",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ji1hui4.mp3",
+    "word": "機會",
+    "pinyin": "jīhuì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ji4cheng2che1.mp3",
+    "word": "計程車",
+    "pinyin": "jìchéngchē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ji4de5.mp3",
+    "word": "記得",
+    "pinyin": "jìde",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ji4hua4.mp3",
+    "word": "計畫",
+    "pinyin": "jìhuà",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ji4jie2.mp3",
+    "word": "季節",
+    "pinyin": "jìjié",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1ban1.mp3",
+    "word": "加班",
+    "pinyin": "jiābān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1ju4.mp3",
+    "word": "家具",
+    "pinyin": "jiājù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1ren2.mp3",
+    "word": "家人",
+    "pinyin": "jiārén",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1shang4.mp3",
+    "word": "加上",
+    "pinyin": "jiāshàng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1ting2.mp3",
+    "word": "家庭",
+    "pinyin": "jiātíng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jia1you2.mp3",
+    "word": "加油",
+    "pinyin": "jiāyóu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/jia4ri4.mp3",
+    "word": "假日",
+    "pinyin": "jiàrì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jian3dan1.mp3",
+    "word": "簡單",
+    "pinyin": "jiǎndān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jian3xun4.mp3",
+    "word": "簡訊",
+    "pinyin": "jiǎnxùn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jian4kang1.mp3",
+    "word": "健康",
+    "pinyin": "jiànkāng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jian4mian4.mp3",
+    "word": "見面",
+    "pinyin": "jiànmiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/jian4yi4.mp3",
+    "word": "建議",
+    "pinyin": "jiànyì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao1shu1.mp3",
+    "word": "教書",
+    "pinyin": "jiāoshū",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao1tong1.mp3",
+    "word": "交通",
+    "pinyin": "jiāotōng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao3ta4che1.mp3",
+    "word": "腳踏車",
+    "pinyin": "jiǎotàchē",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao3zi5.mp3",
+    "word": "餃子",
+    "pinyin": "jiǎozi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao4shi4.mp3",
+    "word": "教室",
+    "pinyin": "jiàoshì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao4shou4.mp3",
+    "word": "教授",
+    "pinyin": "jiàoshòu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao4yu4.mp3",
+    "word": "教育",
+    "pinyin": "jiàoyù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jiao4zuo4.mp3",
+    "word": "叫做",
+    "pinyin": "jiàozuò",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jie1zhe5.mp3",
+    "word": "接著",
+    "pinyin": "jiēzhe",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jie2guo3.mp3",
+    "word": "結果",
+    "pinyin": "jiéguǒ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jie2hun1.mp3",
+    "word": "結婚",
+    "pinyin": "jiéhūn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jie2ri4.mp3",
+    "word": "節日",
+    "pinyin": "jiérì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jie2shu4.mp3",
+    "word": "結束",
+    "pinyin": "jiéshù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jie2yun4.mp3",
+    "word": "捷運",
+    "pinyin": "jiéyùn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/jie4shao4.mp3",
+    "word": "介紹",
+    "pinyin": "jièshào",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/jiejie.mp3",
+    "word": "姊姊",
+    "pinyin": "jiějie",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/jin1nian2.mp3",
+    "word": "今年",
+    "pinyin": "jīnnián",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/jin1se4.mp3",
+    "word": "金色",
+    "pinyin": "jīnsè",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jin1tian1.mp3",
+    "word": "今天",
+    "pinyin": "jīntiān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/jin3zhang1.mp3",
+    "word": "緊張",
+    "pinyin": "jǐnzhāng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jin4bu4.mp3",
+    "word": "進步",
+    "pinyin": "jìnbù",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jing1chang2.mp3",
+    "word": "經常",
+    "pinyin": "jīngcháng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jing1guo4.mp3",
+    "word": "經過",
+    "pinyin": "jīngguò",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/jing1shen2.mp3",
+    "word": "精神",
+    "pinyin": "jīngshén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/jing1yan4.mp3",
+    "word": "經驗",
+    "pinyin": "jīngyàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/juzi.mp3",
+    "word": "橘子",
+    "pinyin": "júzi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ju1liu2zheng4.mp3",
+    "word": "居留證",
+    "pinyin": "jūliúzhèng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ju4zi5.mp3",
+    "word": "句子",
+    "pinyin": "jùzi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/jue2de5.mp3",
+    "word": "覺得",
+    "pinyin": "juéde",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/jue2ding4.mp3",
+    "word": "決定",
+    "pinyin": "juédìng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ka1fei1.mp3",
+    "word": "咖啡",
+    "pinyin": "kāfēi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1che1.mp3",
+    "word": "開車",
+    "pinyin": "kāichē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1hui4.mp3",
+    "word": "開會",
+    "pinyin": "kāihuì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1shi3.mp3",
+    "word": "開始",
+    "pinyin": "kāishǐ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1wan2xiao4.mp3",
+    "word": "開玩笑",
+    "pinyin": "kāiwánxiào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1xin1.mp3",
+    "word": "開心",
+    "pinyin": "kāixīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/kai1xue2.mp3",
+    "word": "開學",
+    "pinyin": "kāixué",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/kan4bing4.mp3",
+    "word": "看病",
+    "pinyin": "kànbìng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kan4dao4.mp3",
+    "word": "看到",
+    "pinyin": "kàndào",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kan4fa3.mp3",
+    "word": "看法",
+    "pinyin": "kànfǎ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/kan4jian4.mp3",
+    "word": "看見",
+    "pinyin": "kànjiàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kan4qi3lai2.mp3",
+    "word": "看起來",
+    "pinyin": "kànqǐlái",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/kao3shi4.mp3",
+    "word": "考試",
+    "pinyin": "kǎoshì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke2sou4.mp3",
+    "word": "咳嗽",
+    "pinyin": "késòu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3ai4.mp3",
+    "word": "可愛",
+    "pinyin": "kěài",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3le4.mp3",
+    "word": "可樂",
+    "pinyin": "kělè",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3neng2.mp3",
+    "word": "可能",
+    "pinyin": "kěnéng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3pa4.mp3",
+    "word": "可怕",
+    "pinyin": "kěpà",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3shi4.mp3",
+    "word": "可是",
+    "pinyin": "kěshì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke3yi3.mp3",
+    "word": "可以",
+    "pinyin": "kěyǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ke4ben3.mp3",
+    "word": "課本",
+    "pinyin": "kèběn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke4man3.mp3",
+    "word": "客滿",
+    "pinyin": "kèmǎn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ke4qi4.mp3",
+    "word": "客氣",
+    "pinyin": "kèqì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ke4ren2.mp3",
+    "word": "客人",
+    "pinyin": "kèrén",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ke4ting1.mp3",
+    "word": "客廳",
+    "pinyin": "kètīng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/kexi.mp3",
+    "word": "可惜",
+    "pinyin": "kěxí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/kong1qi4.mp3",
+    "word": "空氣",
+    "pinyin": "kōngqì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kou3dai4.mp3",
+    "word": "口袋",
+    "pinyin": "kǒudài",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ku4zi5.mp3",
+    "word": "褲子",
+    "pinyin": "kùzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/kuai4le4.mp3",
+    "word": "快樂",
+    "pinyin": "kuàilè",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kuai4zi5.mp3",
+    "word": "筷子",
+    "pinyin": "kuàizi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/kun4nan2.mp3",
+    "word": "困難",
+    "pinyin": "kùnnán",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/lan2qiu2.mp3",
+    "word": "籃球",
+    "pinyin": "lánqiú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lan2zi5.mp3",
+    "word": "籃子",
+    "pinyin": "lánzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/lao3ban3.mp3",
+    "word": "老闆",
+    "pinyin": "lǎobǎn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/lao3ban3niang2.mp3",
+    "word": "老闆娘",
+    "pinyin": "lǎobǎnniáng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/lao3ren2.mp3",
+    "word": "老人",
+    "pinyin": "lǎorén",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/lao3shi1.mp3",
+    "word": "老師",
+    "pinyin": "lǎoshī",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/lao3tai4tai5.mp3",
+    "word": "老太太",
+    "pinyin": "lǎotàitai",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/leng3qi4.mp3",
+    "word": "冷氣",
+    "pinyin": "lěngqì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lese.mp3",
+    "word": "垃圾",
+    "pinyin": "lèsè",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/li2kai1.mp3",
+    "word": "離開",
+    "pinyin": "líkāi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/li3bai4.mp3",
+    "word": "禮拜",
+    "pinyin": "lǐbài",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/li3bai4tian1.mp3",
+    "word": "禮拜天",
+    "pinyin": "lǐbàitiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/li3mao4.mp3",
+    "word": "禮貌",
+    "pinyin": "lǐmào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/li3mian4.mp3",
+    "word": "裡面",
+    "pinyin": "lǐmiàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/li3wu4.mp3",
+    "word": "禮物",
+    "pinyin": "lǐwù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/li4ke4.mp3",
+    "word": "立刻",
+    "pinyin": "lìkè",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/li4ru2.mp3",
+    "word": "例如",
+    "pinyin": "lìrú",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/li4shi3.mp3",
+    "word": "歷史",
+    "pinyin": "lìshǐ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/li4yong4.mp3",
+    "word": "利用",
+    "pinyin": "lìyòng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/li4zi5.mp3",
+    "word": "例子",
+    "pinyin": "lìzi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/lian3se4.mp3",
+    "word": "臉色",
+    "pinyin": "liǎnsè",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/lian4xi2.mp3",
+    "word": "練習",
+    "pinyin": "liànxí",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/liang2kuai4.mp3",
+    "word": "涼快",
+    "pinyin": "liángkuài",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/liao2tian1.mp3",
+    "word": "聊天",
+    "pinyin": "liáotiān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/liao3jie3.mp3",
+    "word": "了解",
+    "pinyin": "liǎojiě",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/lin2ju1.mp3",
+    "word": "鄰居",
+    "pinyin": "línjū",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ling2qian2.mp3",
+    "word": "零錢",
+    "pinyin": "língqián",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ling2yong4qian2.mp3",
+    "word": "零用錢",
+    "pinyin": "língyòngqián",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ling4wai4.mp3",
+    "word": "另外",
+    "pinyin": "lìngwài",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/liu2han4.mp3",
+    "word": "流汗",
+    "pinyin": "liúhàn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/liu2xia4.mp3",
+    "word": "留下",
+    "pinyin": "liúxià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/liu2xing2.mp3",
+    "word": "流行",
+    "pinyin": "liúxíng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/lou2shang4.mp3",
+    "word": "樓上",
+    "pinyin": "lóushàng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lou2ti1.mp3",
+    "word": "樓梯",
+    "pinyin": "lóutī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lou2xia4.mp3",
+    "word": "樓下",
+    "pinyin": "lóuxià",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lu4kou3.mp3",
+    "word": "路口",
+    "pinyin": "lùkǒu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lv3guan3.mp3",
+    "word": "旅館",
+    "pinyin": "lǚguǎn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/lv3xing2.mp3",
+    "word": "旅行",
+    "pinyin": "lǚxíng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ma1ma5.mp3",
+    "word": "媽媽",
+    "pinyin": "māma",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ma2fan2.mp3",
+    "word": "麻煩",
+    "pinyin": "máfán",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ma3lu4.mp3",
+    "word": "馬路",
+    "pinyin": "mǎlù",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ma3shang4.mp3",
+    "word": "馬上",
+    "pinyin": "mǎshàng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/man2tou5.mp3",
+    "word": "饅頭",
+    "pinyin": "mántou",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/man4pao3.mp3",
+    "word": "慢跑",
+    "pinyin": "mànpǎo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/mang2guo3.mp3",
+    "word": "芒果",
+    "pinyin": "mángguǒ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mao2jin1.mp3",
+    "word": "毛巾",
+    "pinyin": "máojīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mao2yi1.mp3",
+    "word": "毛衣",
+    "pinyin": "máoyī",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mao4zi5.mp3",
+    "word": "帽子",
+    "pinyin": "màozi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/mei2guan1xi5.mp3",
+    "word": "沒關係",
+    "pinyin": "méiguānxi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/mei2xiang3dao4.mp3",
+    "word": "沒想到",
+    "pinyin": "méixiǎngdào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/mei2you3.mp3",
+    "word": "沒有",
+    "pinyin": "méiyǒu",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/mei3guo2.mp3",
+    "word": "美國",
+    "pinyin": "měiguó",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/mei3li4.mp3",
+    "word": "美麗",
+    "pinyin": "měilì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/mei3zhou1.mp3",
+    "word": "美洲",
+    "pinyin": "měizhōu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/mei4mei5.mp3",
+    "word": "妹妹",
+    "pinyin": "mèimei",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/men2kou3.mp3",
+    "word": "門口",
+    "pinyin": "ménkǒu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/men2piao4.mp3",
+    "word": "門票",
+    "pinyin": "ménpiào",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/mian4bao1.mp3",
+    "word": "麵包",
+    "pinyin": "miànbāo",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ming2nian2.mp3",
+    "word": "明年",
+    "pinyin": "míngnián",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ming2tian1.mp3",
+    "word": "明天",
+    "pinyin": "míngtiān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ming2zi5.mp3",
+    "word": "名字",
+    "pinyin": "míngzi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/mo2tuo1che1.mp3",
+    "word": "摩托車",
+    "pinyin": "mótuōchē",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mu3qin1.mp3",
+    "word": "母親",
+    "pinyin": "mǔqīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mu3yu3.mp3",
+    "word": "母語",
+    "pinyin": "mǔyǔ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/mu4di4.mp3",
+    "word": "目的",
+    "pinyin": "mùdì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/mu4gua1.mp3",
+    "word": "木瓜",
+    "pinyin": "mùguā",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/mu4yu4ru3.mp3",
+    "word": "沐浴乳",
+    "pinyin": "mùyùrǔ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/na3li3.mp3",
+    "word": "哪裡",
+    "pinyin": "nǎlǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/na3r.mp3",
+    "word": "哪兒",
+    "pinyin": "nǎr",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/na4li3.mp3",
+    "word": "那裡",
+    "pinyin": "nàlǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/na4me5.mp3",
+    "word": "那麼",
+    "pinyin": "nàme",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/na4r.mp3",
+    "word": "那兒",
+    "pinyin": "nàr",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/na4yang4.mp3",
+    "word": "那樣",
+    "pinyin": "nàyàng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/nai3cha2.mp3",
+    "word": "奶茶",
+    "pinyin": "nǎichá",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/nai3nai5.mp3",
+    "word": "奶奶",
+    "pinyin": "nǎinai",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/nan2guo4.mp3",
+    "word": "難過",
+    "pinyin": "nánguò",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/nan2sheng1.mp3",
+    "word": "男生",
+    "pinyin": "nánshēng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/nao4zhong1.mp3",
+    "word": "鬧鐘",
+    "pinyin": "nàozhōng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/neng2li4.mp3",
+    "word": "能力",
+    "pinyin": "nénglì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ni3men5.mp3",
+    "word": "你們",
+    "pinyin": "nǐmen",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/nian2ji2.mp3",
+    "word": "年級",
+    "pinyin": "niánjí",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/nian2ji4.mp3",
+    "word": "年紀",
+    "pinyin": "niánjì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/nian2qing1.mp3",
+    "word": "年輕",
+    "pinyin": "niánqīng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/nian4shu1.mp3",
+    "word": "念書",
+    "pinyin": "niànshū",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/niu2nai3.mp3",
+    "word": "牛奶",
+    "pinyin": "niúnǎi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/niu2pai2.mp3",
+    "word": "牛排",
+    "pinyin": "niúpái",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/nu3li4.mp3",
+    "word": "努力",
+    "pinyin": "nǔlì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/nv3er2.mp3",
+    "word": "女兒",
+    "pinyin": "nǚér",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/nv3sheng1.mp3",
+    "word": "女生",
+    "pinyin": "nǚshēng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ou1zhou1.mp3",
+    "word": "歐洲",
+    "pinyin": "ōuzhōu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/pa2shan1.mp3",
+    "word": "爬山",
+    "pinyin": "páshān",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/pai1zhao4.mp3",
+    "word": "拍照",
+    "pinyin": "pāizhào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/pai2dui4.mp3",
+    "word": "排隊",
+    "pinyin": "páiduì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/pai4dui4.mp3",
+    "word": "派對",
+    "pinyin": "pàiduì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/pan2zi5.mp3",
+    "word": "盤子",
+    "pinyin": "pánzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/pang2bian1.mp3",
+    "word": "旁邊",
+    "pinyin": "pángbiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/pao3bu4.mp3",
+    "word": "跑步",
+    "pinyin": "pǎobù",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/pao4mian4.mp3",
+    "word": "泡麵",
+    "pinyin": "pàomiàn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/peng2you3.mp3",
+    "word": "朋友",
+    "pinyin": "péngyǒu",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/pi2bao1.mp3",
+    "word": "皮包",
+    "pinyin": "píbāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/pi2jiu3.mp3",
+    "word": "啤酒",
+    "pinyin": "píjiǔ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/pi2xie2.mp3",
+    "word": "皮鞋",
+    "pinyin": "píxié",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/pian2yi2.mp3",
+    "word": "便宜",
+    "pinyin": "piányí",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/piao4liang4.mp3",
+    "word": "漂亮",
+    "pinyin": "piàoliàng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/pin1yin1.mp3",
+    "word": "拼音",
+    "pinyin": "pīnyīn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ping2chang2.mp3",
+    "word": "平常",
+    "pinyin": "píngcháng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ping2guo3.mp3",
+    "word": "蘋果",
+    "pinyin": "píngguǒ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ping2zi5.mp3",
+    "word": "瓶子",
+    "pinyin": "píngzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/pu2tao2.mp3",
+    "word": "葡萄",
+    "pinyin": "pútáo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/qi2guai4.mp3",
+    "word": "奇怪",
+    "pinyin": "qíguài",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/qi2shi2.mp3",
+    "word": "其實",
+    "pinyin": "qíshí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/qi2ta1.mp3",
+    "word": "其他",
+    "pinyin": "qítā",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/qi2zhong1.mp3",
+    "word": "其中",
+    "pinyin": "qízhōng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/qi3chuang2.mp3",
+    "word": "起床",
+    "pinyin": "qǐchuáng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/qi3lai2.mp3",
+    "word": "起來",
+    "pinyin": "qǐlái",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/qi4che1.mp3",
+    "word": "汽車",
+    "pinyin": "qìchē",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/qi4shui3.mp3",
+    "word": "汽水",
+    "pinyin": "qìshuǐ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/qian1zheng4.mp3",
+    "word": "簽證",
+    "pinyin": "qiānzhèng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/qian2bao1.mp3",
+    "word": "錢包",
+    "pinyin": "qiánbāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/qian2mian4.mp3",
+    "word": "前面",
+    "pinyin": "qiánmiàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/qian2nian2.mp3",
+    "word": "前年",
+    "pinyin": "qiánnián",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/qian2tian1.mp3",
+    "word": "前天",
+    "pinyin": "qiántiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/qiao3ke4li4.mp3",
+    "word": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/qing1cai4.mp3",
+    "word": "青菜",
+    "pinyin": "qīngcài",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/qing1chu3.mp3",
+    "word": "清楚",
+    "pinyin": "qīngchǔ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/qing1song1.mp3",
+    "word": "輕鬆",
+    "pinyin": "qīngsōng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/qing2tian1.mp3",
+    "word": "晴天",
+    "pinyin": "qíngtiān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/qing2xing2.mp3",
+    "word": "情形",
+    "pinyin": "qíngxíng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/qing3ke4.mp3",
+    "word": "請客",
+    "pinyin": "qǐngkè",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/qing3wen4.mp3",
+    "word": "請問",
+    "pinyin": "qǐngwèn",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/qiu1tian1.mp3",
+    "word": "秋天",
+    "pinyin": "qiūtiān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/qu4nian2.mp3",
+    "word": "去年",
+    "pinyin": "qùnián",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/quan2bu4.mp3",
+    "word": "全部",
+    "pinyin": "quánbù",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/qun2zi5.mp3",
+    "word": "裙子",
+    "pinyin": "qúnzi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ran2hou4.mp3",
+    "word": "然後",
+    "pinyin": "ránhòu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/re4gou3.mp3",
+    "word": "熱狗",
+    "pinyin": "règǒu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/re4nao4.mp3",
+    "word": "熱鬧",
+    "pinyin": "rènào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ren4shi4.mp3",
+    "word": "認識",
+    "pinyin": "rènshì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ren4wei2.mp3",
+    "word": "認為",
+    "pinyin": "rènwéi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ren4zhen1.mp3",
+    "word": "認真",
+    "pinyin": "rènzhēn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ri4ben3.mp3",
+    "word": "日本",
+    "pinyin": "rìběn",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ri4ji4.mp3",
+    "word": "日記",
+    "pinyin": "rìjì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ri4wen2.mp3",
+    "word": "日文",
+    "pinyin": "rìwén",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ri4yu3.mp3",
+    "word": "日語",
+    "pinyin": "rìyǔ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ri4zi5.mp3",
+    "word": "日子",
+    "pinyin": "rìzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/rong2yi4.mp3",
+    "word": "容易",
+    "pinyin": "róngyì",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ru2guo3.mp3",
+    "word": "如果",
+    "pinyin": "rúguǒ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ru4kou3.mp3",
+    "word": "入口",
+    "pinyin": "rùkǒu",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/san1ming2zhi4.mp3",
+    "word": "三明治",
+    "pinyin": "sānmíngzhì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/san4bu4.mp3",
+    "word": "散步",
+    "pinyin": "sànbù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/sha1fa1.mp3",
+    "word": "沙發",
+    "pinyin": "shāfā",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/sha1la1.mp3",
+    "word": "沙拉",
+    "pinyin": "shālā",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shang1dian4.mp3",
+    "word": "商店",
+    "pinyin": "shāngdiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang1ren2.mp3",
+    "word": "商人",
+    "pinyin": "shāngrén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4ban1.mp3",
+    "word": "上班",
+    "pinyin": "shàngbān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4chuang2.mp3",
+    "word": "上床",
+    "pinyin": "shàngchuáng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4ke4.mp3",
+    "word": "上課",
+    "pinyin": "shàngkè",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4wang3.mp3",
+    "word": "上網",
+    "pinyin": "shàngwǎng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4wu3.mp3",
+    "word": "上午",
+    "pinyin": "shàngwǔ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4xue2.mp3",
+    "word": "上學",
+    "pinyin": "shàngxué",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shang4yi1.mp3",
+    "word": "上衣",
+    "pinyin": "shàngyī",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/she4hui4.mp3",
+    "word": "社會",
+    "pinyin": "shèhuì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shen1bian1.mp3",
+    "word": "身邊",
+    "pinyin": "shēnbiān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shen1gao1.mp3",
+    "word": "身高",
+    "pinyin": "shēngāo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shen1ti3.mp3",
+    "word": "身體",
+    "pinyin": "shēntǐ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shen2me5.mp3",
+    "word": "什麼",
+    "pinyin": "shénme",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1bing4.mp3",
+    "word": "生病",
+    "pinyin": "shēngbìng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1huo2.mp3",
+    "word": "生活",
+    "pinyin": "shēnghuó",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1huo2fei4.mp3",
+    "word": "生活費",
+    "pinyin": "shēnghuófèi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1qi4.mp3",
+    "word": "生氣",
+    "pinyin": "shēngqì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1ri4.mp3",
+    "word": "生日",
+    "pinyin": "shēngrì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1yi4.mp3",
+    "word": "生意",
+    "pinyin": "shēngyì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng1yin1.mp3",
+    "word": "聲音",
+    "pinyin": "shēngyīn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/sheng4dan4lao3ren2.mp3",
+    "word": "聖誕老人",
+    "pinyin": "shèngdànlǎorén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2cha1.mp3",
+    "word": "時差",
+    "pinyin": "shíchā",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2hou4.mp3",
+    "word": "時候",
+    "pinyin": "shíhòu",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2jian1.mp3",
+    "word": "時間",
+    "pinyin": "shíjiān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2wu4.mp3",
+    "word": "食物",
+    "pinyin": "shíwù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2zhong1.mp3",
+    "word": "時鐘",
+    "pinyin": "shízhōng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi2zi4lu4kou3.mp3",
+    "word": "十字路口",
+    "pinyin": "shízìlùkǒu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4chang3.mp3",
+    "word": "市場",
+    "pinyin": "shìchǎng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4he2.mp3",
+    "word": "適合",
+    "pinyin": "shìhé",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4jie4.mp3",
+    "word": "世界",
+    "pinyin": "shìjiè",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4qing2.mp3",
+    "word": "事情",
+    "pinyin": "shìqíng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4qu1.mp3",
+    "word": "市區",
+    "pinyin": "shìqū",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4r.mp3",
+    "word": "事兒",
+    "pinyin": "shìr",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shi4you3.mp3",
+    "word": "室友",
+    "pinyin": "shìyǒu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shou3biao3.mp3",
+    "word": "手錶",
+    "pinyin": "shǒubiǎo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shou3ji1.mp3",
+    "word": "手機",
+    "pinyin": "shǒujī",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/shou3tao4.mp3",
+    "word": "手套",
+    "pinyin": "shǒutào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1bao1.mp3",
+    "word": "書包",
+    "pinyin": "shūbāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1dian4.mp3",
+    "word": "書店",
+    "pinyin": "shūdiàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1fa3.mp3",
+    "word": "書法",
+    "pinyin": "shūfǎ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1fang2.mp3",
+    "word": "書房",
+    "pinyin": "shūfáng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1fu5.mp3",
+    "word": "舒服",
+    "pinyin": "shūfu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1jia4.mp3",
+    "word": "書架",
+    "pinyin": "shūjià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu1zhuo1.mp3",
+    "word": "書桌",
+    "pinyin": "shūzhuō",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shu3jia4.mp3",
+    "word": "暑假",
+    "pinyin": "shǔjià",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shua1ka3.mp3",
+    "word": "刷卡",
+    "pinyin": "shuākǎ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/shui3guo3.mp3",
+    "word": "水果",
+    "pinyin": "shuǐguǒ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shui4jiao4.mp3",
+    "word": "睡覺",
+    "pinyin": "shuìjiào",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/shui4yi1.mp3",
+    "word": "睡衣",
+    "pinyin": "shuìyī",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/shuo1hua4.mp3",
+    "word": "說話",
+    "pinyin": "shuōhuà",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/shushu.mp3",
+    "word": "叔叔",
+    "pinyin": "shúshu",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/si1ji1.mp3",
+    "word": "司機",
+    "pinyin": "sījī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/su4du4.mp3",
+    "word": "速度",
+    "pinyin": "sùdù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/su4she4.mp3",
+    "word": "宿舍",
+    "pinyin": "sùshè",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/su4shi2.mp3",
+    "word": "速食",
+    "pinyin": "sùshí",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/sui1ran2.mp3",
+    "word": "雖然",
+    "pinyin": "suīrán",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/sun1nv3.mp3",
+    "word": "孫女",
+    "pinyin": "sūnnǚ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/sun1zi5.mp3",
+    "word": "孫子",
+    "pinyin": "sūnzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/suo3yi3.mp3",
+    "word": "所以",
+    "pinyin": "suǒyǐ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/suo3you3.mp3",
+    "word": "所有",
+    "pinyin": "suǒyǒu",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ta1men5.mp3",
+    "word": "他們",
+    "pinyin": "tāmen",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/tai2feng1.mp3",
+    "word": "颱風",
+    "pinyin": "táifēng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tai2wan1.mp3",
+    "word": "臺灣",
+    "pinyin": "táiwān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/tai2wan1ren2.mp3",
+    "word": "臺灣人",
+    "pinyin": "táiwānrén",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/tai2yu3.mp3",
+    "word": "台語",
+    "pinyin": "táiyǔ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tai4tai5.mp3",
+    "word": "太太",
+    "pinyin": "tàitai",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/tai4yang2.mp3",
+    "word": "太陽",
+    "pinyin": "tàiyáng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tang1chi2.mp3",
+    "word": "湯匙",
+    "pinyin": "tāngchí",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/tang2guo3.mp3",
+    "word": "糖果",
+    "pinyin": "tángguǒ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tao3lun4.mp3",
+    "word": "討論",
+    "pinyin": "tǎolùn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/tao4can1.mp3",
+    "word": "套餐",
+    "pinyin": "tàocān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/te4bie2.mp3",
+    "word": "特別",
+    "pinyin": "tèbié",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ti2mu4.mp3",
+    "word": "題目",
+    "pinyin": "tímù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/tian1qi4.mp3",
+    "word": "天氣",
+    "pinyin": "tiānqì",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/tian2dian3.mp3",
+    "word": "甜點",
+    "pinyin": "tiándiǎn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/tiao4wu3.mp3",
+    "word": "跳舞",
+    "pinyin": "tiàowǔ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ting1dao4.mp3",
+    "word": "聽到",
+    "pinyin": "tīngdào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ting1jian4.mp3",
+    "word": "聽見",
+    "pinyin": "tīngjiàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ting1shuo1.mp3",
+    "word": "聽說",
+    "pinyin": "tīngshuō",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/ting2che1chang3.mp3",
+    "word": "停車場",
+    "pinyin": "tíngchēchǎng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tong2ban1.mp3",
+    "word": "同班",
+    "pinyin": "tóngbān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/tong2shi2.mp3",
+    "word": "同時",
+    "pinyin": "tóngshí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/tong2xue2.mp3",
+    "word": "同學",
+    "pinyin": "tóngxué",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/tong2yang4.mp3",
+    "word": "同樣",
+    "pinyin": "tóngyàng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/tong2yi4.mp3",
+    "word": "同意",
+    "pinyin": "tóngyì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tou2fa3.mp3",
+    "word": "頭髮",
+    "pinyin": "tóufǎ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/tou2tong4.mp3",
+    "word": "頭痛",
+    "pinyin": "tóutòng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/tu2shu1guan3.mp3",
+    "word": "圖書館",
+    "pinyin": "túshūguǎn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/tuo1xie2.mp3",
+    "word": "拖鞋",
+    "pinyin": "tuōxié",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wa4zi5.mp3",
+    "word": "襪子",
+    "pinyin": "wàzi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4gong5.mp3",
+    "word": "外公",
+    "pinyin": "wàigong",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4guo2.mp3",
+    "word": "外國",
+    "pinyin": "wàiguó",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4po2.mp3",
+    "word": "外婆",
+    "pinyin": "wàipó",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4tao4.mp3",
+    "word": "外套",
+    "pinyin": "wàitào",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4tou5.mp3",
+    "word": "外頭",
+    "pinyin": "wàitou",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4zu3fu4.mp3",
+    "word": "外祖父",
+    "pinyin": "wàizǔfù",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wai4zu3mu3.mp3",
+    "word": "外祖母",
+    "pinyin": "wài zǔmǔ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wan2quan2.mp3",
+    "word": "完全",
+    "pinyin": "wánquán",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wan3an1.mp3",
+    "word": "晚安",
+    "pinyin": "wǎnān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/wan3can1.mp3",
+    "word": "晚餐",
+    "pinyin": "wǎncān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wan3fan4.mp3",
+    "word": "晚飯",
+    "pinyin": "wǎnfàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wan3shang4.mp3",
+    "word": "晚上",
+    "pinyin": "wǎnshàng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/wang3lu4.mp3",
+    "word": "網路",
+    "pinyin": "wǎnglù",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/wang3qiu2.mp3",
+    "word": "網球",
+    "pinyin": "wǎngqiú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/wang3zhan4.mp3",
+    "word": "網站",
+    "pinyin": "wǎngzhàn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/wang4ji4.mp3",
+    "word": "忘記",
+    "pinyin": "wàngjì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wei4dao4.mp3",
+    "word": "味道",
+    "pinyin": "wèidào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/wei4shen2me5.mp3",
+    "word": "為什麼",
+    "pinyin": "wèishénme",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wei4sheng1zhi3.mp3",
+    "word": "衛生紙",
+    "pinyin": "wèishēngzhǐ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wei4zi5.mp3",
+    "word": "位子",
+    "pinyin": "wèizi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/weixian.mp3",
+    "word": "危險",
+    "pinyin": "wéixiǎn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wen1quan2.mp3",
+    "word": "溫泉",
+    "pinyin": "wēnquán",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wen2fa3.mp3",
+    "word": "文法",
+    "pinyin": "wénfǎ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wen2hua4.mp3",
+    "word": "文化",
+    "pinyin": "wénhuà",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/wen2zi5.mp3",
+    "word": "蚊子",
+    "pinyin": "wénzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wen4ti2.mp3",
+    "word": "問題",
+    "pinyin": "wèntí",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/wo3men5.mp3",
+    "word": "我們",
+    "pinyin": "wǒmen",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/wo4fang2.mp3",
+    "word": "臥房",
+    "pinyin": "wòfáng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wo4shi4.mp3",
+    "word": "臥室",
+    "pinyin": "wòshì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wu1long2cha2.mp3",
+    "word": "烏龍茶",
+    "pinyin": "wūlóngchá",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wu1ran3.mp3",
+    "word": "污染",
+    "pinyin": "wūrǎn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/wu1zi5.mp3",
+    "word": "屋子",
+    "pinyin": "wūzi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/wu2liao2.mp3",
+    "word": "無聊",
+    "pinyin": "wúliáo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/wu3can1.mp3",
+    "word": "午餐",
+    "pinyin": "wǔcān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/wu3fan4.mp3",
+    "word": "午飯",
+    "pinyin": "wǔfàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xi1gua1.mp3",
+    "word": "西瓜",
+    "pinyin": "xīguā",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xi1wang4.mp3",
+    "word": "希望",
+    "pinyin": "xīwàng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xi2guan4.mp3",
+    "word": "習慣",
+    "pinyin": "xíguàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xi3fa3jing1.mp3",
+    "word": "洗髮精",
+    "pinyin": "xǐfǎjīng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xi3huan1.mp3",
+    "word": "喜歡",
+    "pinyin": "xǐhuān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xi3shou3jian1.mp3",
+    "word": "洗手間",
+    "pinyin": "xǐshǒujiān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xi3yi1ji1.mp3",
+    "word": "洗衣機",
+    "pinyin": "xǐyījī",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xi3zao3.mp3",
+    "word": "洗澡",
+    "pinyin": "xǐzǎo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4ban1.mp3",
+    "word": "下班",
+    "pinyin": "xiàbān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4ke4.mp3",
+    "word": "下課",
+    "pinyin": "xiàkè",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4tian1.mp3",
+    "word": "夏天",
+    "pinyin": "xiàtiān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4wu3.mp3",
+    "word": "下午",
+    "pinyin": "xiàwǔ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4xue3.mp3",
+    "word": "下雪",
+    "pinyin": "xiàxuě",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xia4yu3.mp3",
+    "word": "下雨",
+    "pinyin": "xiàyǔ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xian1sheng1.mp3",
+    "word": "先生",
+    "pinyin": "xiānshēng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xian4dai4.mp3",
+    "word": "現代",
+    "pinyin": "xiàndài",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xian4zai4.mp3",
+    "word": "現在",
+    "pinyin": "xiànzài",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1dang1.mp3",
+    "word": "相當",
+    "pinyin": "xiāngdāng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1jiao1.mp3",
+    "word": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1wei4.mp3",
+    "word": "香味",
+    "pinyin": "xiāngwèi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1xia4.mp3",
+    "word": "鄉下",
+    "pinyin": "xiāngxià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1xin4.mp3",
+    "word": "相信",
+    "pinyin": "xiāngxìn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang1zi5.mp3",
+    "word": "箱子",
+    "pinyin": "xiāngzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang3fa3.mp3",
+    "word": "想法",
+    "pinyin": "xiǎngfǎ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiang4pian4.mp3",
+    "word": "相片",
+    "pinyin": "xiàngpiàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3chi1.mp3",
+    "word": "小吃",
+    "pinyin": "xiǎochī",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3fei4.mp3",
+    "word": "小費",
+    "pinyin": "xiǎofèi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3hai2.mp3",
+    "word": "小孩",
+    "pinyin": "xiǎohái",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3hai2zi5.mp3",
+    "word": "小孩子",
+    "pinyin": "xiǎoháizi",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3jie3.mp3",
+    "word": "小姐",
+    "pinyin": "xiǎojiě",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3peng2you3.mp3",
+    "word": "小朋友",
+    "pinyin": "xiǎopéngyǒu",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3shi2.mp3",
+    "word": "小時",
+    "pinyin": "xiǎoshí",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3shi2hou4.mp3",
+    "word": "小時候",
+    "pinyin": "xiǎoshíhòu",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3xin1.mp3",
+    "word": "小心",
+    "pinyin": "xiǎoxīn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao3xue2.mp3",
+    "word": "小學",
+    "pinyin": "xiǎoxué",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xiao4yuan2.mp3",
+    "word": "校園",
+    "pinyin": "xiàoyuán",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xiaoxi.mp3",
+    "word": "消息",
+    "pinyin": "xiāoxí",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xie2zi5.mp3",
+    "word": "鞋子",
+    "pinyin": "xiézi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xie4xie5.mp3",
+    "word": "謝謝",
+    "pinyin": "xièxie",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xin1ku3.mp3",
+    "word": "辛苦",
+    "pinyin": "xīnkǔ",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xin1nian2.mp3",
+    "word": "新年",
+    "pinyin": "xīnnián",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xin1qing2.mp3",
+    "word": "心情",
+    "pinyin": "xīnqíng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xin1wen2.mp3",
+    "word": "新聞",
+    "pinyin": "xīnwén",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xin1xian1.mp3",
+    "word": "新鮮",
+    "pinyin": "xīnxiān",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xin4feng1.mp3",
+    "word": "信封",
+    "pinyin": "xìnfēng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xin4xiang1.mp3",
+    "word": "信箱",
+    "pinyin": "xìnxiāng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xin4yong4ka3.mp3",
+    "word": "信用卡",
+    "pinyin": "xìnyòngkǎ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/xing1xing5.mp3",
+    "word": "星星",
+    "pinyin": "xīngxing",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xing2li3.mp3",
+    "word": "行李",
+    "pinyin": "xínglǐ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xing4ming2.mp3",
+    "word": "姓名",
+    "pinyin": "xìngmíng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xing4qu4.mp3",
+    "word": "興趣",
+    "pinyin": "xìngqù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xingqi.mp3",
+    "word": "星期",
+    "pinyin": "xīngqí",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xingqiri.mp3",
+    "word": "星期日",
+    "pinyin": "xīngqírì",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xingqitian.mp3",
+    "word": "星期天",
+    "pinyin": "xīngqítiān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xingqiyi.mp3",
+    "word": "星期一",
+    "pinyin": "xīngqíyī",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xiong1di4.mp3",
+    "word": "兄弟",
+    "pinyin": "xiōngdì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xiuxi.mp3",
+    "word": "休息",
+    "pinyin": "xiūxí",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/xu1yao4.mp3",
+    "word": "需要",
+    "pinyin": "xūyào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xu3duo1.mp3",
+    "word": "許多",
+    "pinyin": "xǔduō",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xuan3ze2.mp3",
+    "word": "選擇",
+    "pinyin": "xuǎnzé",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/xue2sheng1.mp3",
+    "word": "學生",
+    "pinyin": "xuéshēng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xue2sheng1zheng4.mp3",
+    "word": "學生證",
+    "pinyin": "xuéshēngzhèng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/xue2xi2.mp3",
+    "word": "學習",
+    "pinyin": "xuéxí",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/xue2xiao4.mp3",
+    "word": "學校",
+    "pinyin": "xuéxiào",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/xueqi.mp3",
+    "word": "學期",
+    "pinyin": "xuéqí",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ya2gao1.mp3",
+    "word": "牙膏",
+    "pinyin": "yágāo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ya2shua1.mp3",
+    "word": "牙刷",
+    "pinyin": "yáshuā",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ya4zhou1.mp3",
+    "word": "亞洲",
+    "pinyin": "yàzhōu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yan2jiu4.mp3",
+    "word": "研究",
+    "pinyin": "yánjiù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yan2se4.mp3",
+    "word": "顏色",
+    "pinyin": "yánsè",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yan2zhong4.mp3",
+    "word": "嚴重",
+    "pinyin": "yánzhòng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yan3jing1.mp3",
+    "word": "眼睛",
+    "pinyin": "yǎnjīng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yan3jing4.mp3",
+    "word": "眼鏡",
+    "pinyin": "yǎnjìng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yang2cong1.mp3",
+    "word": "洋蔥",
+    "pinyin": "yángcōng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yang4zi5.mp3",
+    "word": "樣子",
+    "pinyin": "yàngzi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yao1qiu2.mp3",
+    "word": "要求",
+    "pinyin": "yāoqiú",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yao4fang2.mp3",
+    "word": "藥房",
+    "pinyin": "yàofáng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yao4ju2.mp3",
+    "word": "藥局",
+    "pinyin": "yàojú",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yao4shi4.mp3",
+    "word": "要是",
+    "pinyin": "yàoshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yao4shi5.mp3",
+    "word": "鑰匙",
+    "pinyin": "yàoshi",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ye2ye5.mp3",
+    "word": "爺爺",
+    "pinyin": "yéye",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ye3can1.mp3",
+    "word": "野餐",
+    "pinyin": "yěcān",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ye3xu3.mp3",
+    "word": "也許",
+    "pinyin": "yěxǔ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/ye4shi4.mp3",
+    "word": "夜市",
+    "pinyin": "yèshì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ye4wan3.mp3",
+    "word": "夜晚",
+    "pinyin": "yèwǎn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1fu2.mp3",
+    "word": "衣服",
+    "pinyin": "yīfú",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1jia4.mp3",
+    "word": "衣架",
+    "pinyin": "yījià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1sheng1.mp3",
+    "word": "醫生",
+    "pinyin": "yīshēng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1shi1.mp3",
+    "word": "醫師",
+    "pinyin": "yīshī",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1yuan4.mp3",
+    "word": "醫院",
+    "pinyin": "yīyuàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi1yue4.mp3",
+    "word": "一月",
+    "pinyin": "yīyuè",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2ban4.mp3",
+    "word": "一半",
+    "pinyin": "yíbàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2ding4.mp3",
+    "word": "一定",
+    "pinyin": "yídìng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2gong4.mp3",
+    "word": "一共",
+    "pinyin": "yígòng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2kuai4.mp3",
+    "word": "一塊",
+    "pinyin": "yíkuài",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2kuai4r.mp3",
+    "word": "一塊兒",
+    "pinyin": "yíkuàir",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2qie4.mp3",
+    "word": "一切",
+    "pinyin": "yíqiè",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2xia4.mp3",
+    "word": "一下",
+    "pinyin": "yíxià",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2xia4zi5.mp3",
+    "word": "一下子",
+    "pinyin": "yíxiàzi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi2yang4.mp3",
+    "word": "一樣",
+    "pinyin": "yíyàng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3hou4.mp3",
+    "word": "以後",
+    "pinyin": "yǐhòu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3jing1.mp3",
+    "word": "已經",
+    "pinyin": "yǐjīng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3qian2.mp3",
+    "word": "以前",
+    "pinyin": "yǐqián",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3shang4.mp3",
+    "word": "以上",
+    "pinyin": "yǐshàng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3wei2.mp3",
+    "word": "以為",
+    "pinyin": "yǐwéi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3xia4.mp3",
+    "word": "以下",
+    "pinyin": "yǐxià",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi3zi5.mp3",
+    "word": "椅子",
+    "pinyin": "yǐzi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4ban1.mp3",
+    "word": "一般",
+    "pinyin": "yìbān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4da4li4.mp3",
+    "word": "義大利",
+    "pinyin": "yìdàlì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4dian3.mp3",
+    "word": "一點",
+    "pinyin": "yìdiǎn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4dian3dian3.mp3",
+    "word": "一點點",
+    "pinyin": "yìdiǎndiǎn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4jian4.mp3",
+    "word": "意見",
+    "pinyin": "yìjiàn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4qi3.mp3",
+    "word": "一起",
+    "pinyin": "yìqǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4si5.mp3",
+    "word": "意思",
+    "pinyin": "yìsi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4xie1.mp3",
+    "word": "一些",
+    "pinyin": "yìxiē",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yi4zhi2.mp3",
+    "word": "一直",
+    "pinyin": "yìzhí",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yidiar.mp3",
+    "word": "一點兒",
+    "pinyin": "yìdiǎr",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yihui.mp3",
+    "word": "一會",
+    "pinyin": "yìhuǐ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yihuir.mp3",
+    "word": "一會兒",
+    "pinyin": "yìhuǐr",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/yin1tian1.mp3",
+    "word": "陰天",
+    "pinyin": "yīntiān",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yin1wei4.mp3",
+    "word": "因為",
+    "pinyin": "yīnwèi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yin1yue4.mp3",
+    "word": "音樂",
+    "pinyin": "yīnyuè",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yin2hang2.mp3",
+    "word": "銀行",
+    "pinyin": "yínháng",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yin3liao4.mp3",
+    "word": "飲料",
+    "pinyin": "yǐnliào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/ying1gai1.mp3",
+    "word": "應該",
+    "pinyin": "yīnggāi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/ying1guo2.mp3",
+    "word": "英國",
+    "pinyin": "yīngguó",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ying1wen2.mp3",
+    "word": "英文",
+    "pinyin": "yīngwén",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/ying1yu3.mp3",
+    "word": "英語",
+    "pinyin": "yīngyǔ",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/ying3xiang3.mp3",
+    "word": "影響",
+    "pinyin": "yǐngxiǎng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yong4gong1.mp3",
+    "word": "用功",
+    "pinyin": "yònggōng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you2jian4.mp3",
+    "word": "郵件",
+    "pinyin": "yóujiàn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/you2ju2.mp3",
+    "word": "郵局",
+    "pinyin": "yóujú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you2piao4.mp3",
+    "word": "郵票",
+    "pinyin": "yóupiào",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you2qi2.mp3",
+    "word": "尤其",
+    "pinyin": "yóuqí",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/you2xi4.mp3",
+    "word": "遊戲",
+    "pinyin": "yóuxì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/you2yong3.mp3",
+    "word": "游泳",
+    "pinyin": "yóuyǒng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you2yong3chi2.mp3",
+    "word": "游泳池",
+    "pinyin": "yóuyǒngchí",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3de5.mp3",
+    "word": "有的",
+    "pinyin": "yǒude",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/you3dian3.mp3",
+    "word": "有點",
+    "pinyin": "yǒudiǎn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3dian3r.mp3",
+    "word": "有點兒",
+    "pinyin": "yǒudiǎnr",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3kong4.mp3",
+    "word": "有空",
+    "pinyin": "yǒukòng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3ming2.mp3",
+    "word": "有名",
+    "pinyin": "yǒumíng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3qian2.mp3",
+    "word": "有錢",
+    "pinyin": "yǒuqián",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3qu4.mp3",
+    "word": "有趣",
+    "pinyin": "yǒuqù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/you3shi2.mp3",
+    "word": "有時",
+    "pinyin": "yǒushí",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3shi2hou4.mp3",
+    "word": "有時候",
+    "pinyin": "yǒushíhòu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3yi4dian3.mp3",
+    "word": "有一點",
+    "pinyin": "yǒuyìdiǎn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3yi4si5.mp3",
+    "word": "有意思",
+    "pinyin": "yǒuyìsi",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you3yong4.mp3",
+    "word": "有用",
+    "pinyin": "yǒuyòng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/you4bian1.mp3",
+    "word": "右邊",
+    "pinyin": "yòubiān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/yu3san3.mp3",
+    "word": "雨傘",
+    "pinyin": "yǔsǎn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yu3yan2.mp3",
+    "word": "語言",
+    "pinyin": "yǔyán",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yu3yi1.mp3",
+    "word": "雨衣",
+    "pinyin": "yǔyī",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yu4shi4.mp3",
+    "word": "浴室",
+    "pinyin": "yùshì",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/yuan2lai2.mp3",
+    "word": "原來",
+    "pinyin": "yuánlái",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yuan2yin1.mp3",
+    "word": "原因",
+    "pinyin": "yuányīn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yuan4yi4.mp3",
+    "word": "願意",
+    "pinyin": "yuànyì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/yuan4zi5.mp3",
+    "word": "院子",
+    "pinyin": "yuànzi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yue1hui4.mp3",
+    "word": "約會",
+    "pinyin": "yuēhuì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yue4liang4.mp3",
+    "word": "月亮",
+    "pinyin": "yuèliàng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yue4tai2.mp3",
+    "word": "月台",
+    "pinyin": "yuètái",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/yun4dong4.mp3",
+    "word": "運動",
+    "pinyin": "yùndòng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/za2zhi4.mp3",
+    "word": "雜誌",
+    "pinyin": "zázhì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zai4jian4.mp3",
+    "word": "再見",
+    "pinyin": "zàijiàn",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zao3an1.mp3",
+    "word": "早安",
+    "pinyin": "zǎoān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zao3can1.mp3",
+    "word": "早餐",
+    "pinyin": "zǎocān",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zao3dian3.mp3",
+    "word": "早點",
+    "pinyin": "zǎodiǎn",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zao3fan4.mp3",
+    "word": "早飯",
+    "pinyin": "zǎofàn",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zao3shang4.mp3",
+    "word": "早上",
+    "pinyin": "zǎoshàng",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zen3me5.mp3",
+    "word": "怎麼",
+    "pinyin": "zěnme",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zen3me5ban4.mp3",
+    "word": "怎麼辦",
+    "pinyin": "zěnmebàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zen3me5yang4.mp3",
+    "word": "怎麼樣",
+    "pinyin": "zěnmeyàng",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhang3da4.mp3",
+    "word": "長大",
+    "pinyin": "zhǎngdà",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhao3dao4.mp3",
+    "word": "找到",
+    "pinyin": "zhǎodào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhao4gu4.mp3",
+    "word": "照顧",
+    "pinyin": "zhàogù",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhao4pian4.mp3",
+    "word": "照片",
+    "pinyin": "zhàopiàn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhao4xiang4.mp3",
+    "word": "照相",
+    "pinyin": "zhàoxiàng",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhe4li3.mp3",
+    "word": "這裡",
+    "pinyin": "zhèlǐ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhe4me5.mp3",
+    "word": "這麼",
+    "pinyin": "zhème",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhe4r.mp3",
+    "word": "這兒",
+    "pinyin": "zhèr",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhe4yang4.mp3",
+    "word": "這樣",
+    "pinyin": "zhèyàng",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhen1de5.mp3",
+    "word": "真的",
+    "pinyin": "zhēnde",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhen3tou5.mp3",
+    "word": "枕頭",
+    "pinyin": "zhěntou",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zheng4chang2.mp3",
+    "word": "正常",
+    "pinyin": "zhèngcháng",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zheng4hao3.mp3",
+    "word": "正好",
+    "pinyin": "zhènghǎo",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zheng4shi4.mp3",
+    "word": "正式",
+    "pinyin": "zhèngshì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhi1dao4.mp3",
+    "word": "知道",
+    "pinyin": "zhīdào",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhi1shi4.mp3",
+    "word": "知識",
+    "pinyin": "zhīshì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhi2jie1.mp3",
+    "word": "直接",
+    "pinyin": "zhíjiē",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhi3hao3.mp3",
+    "word": "只好",
+    "pinyin": "zhǐhǎo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhi3yao4.mp3",
+    "word": "只要",
+    "pinyin": "zhǐyào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1guo2.mp3",
+    "word": "中國",
+    "pinyin": "zhōngguó",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1jian1.mp3",
+    "word": "中間",
+    "pinyin": "zhōngjiān",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1shi4.mp3",
+    "word": "中式",
+    "pinyin": "zhōngshì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1tou2.mp3",
+    "word": "鐘頭",
+    "pinyin": "zhōngtóu",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1wen2.mp3",
+    "word": "中文",
+    "pinyin": "zhōngwén",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1wu3.mp3",
+    "word": "中午",
+    "pinyin": "zhōngwǔ",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1xin1.mp3",
+    "word": "中心",
+    "pinyin": "zhōngxīn",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong1xue2.mp3",
+    "word": "中學",
+    "pinyin": "zhōngxué",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhong4yao4.mp3",
+    "word": "重要",
+    "pinyin": "zhòngyào",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhou1mo4.mp3",
+    "word": "週末",
+    "pinyin": "zhōumò",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhou1ri4.mp3",
+    "word": "週日",
+    "pinyin": "zhōurì",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhou1yi1.mp3",
+    "word": "週一",
+    "pinyin": "zhōuyī",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhu3ren2.mp3",
+    "word": "主人",
+    "pinyin": "zhǔrén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhu4yi4.mp3",
+    "word": "注意",
+    "pinyin": "zhùyì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhu4zhi3.mp3",
+    "word": "住址",
+    "pinyin": "zhùzhǐ",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zhun3bei4.mp3",
+    "word": "準備",
+    "pinyin": "zhǔnbèi",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zhuo1zi5.mp3",
+    "word": "桌子",
+    "pinyin": "zhuōzi",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zi1liao4.mp3",
+    "word": "資料",
+    "pinyin": "zīliào",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zi4dian3.mp3",
+    "word": "字典",
+    "pinyin": "zìdiǎn",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/zi4ji3.mp3",
+    "word": "自己",
+    "pinyin": "zìjǐ",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zi4ran2.mp3",
+    "word": "自然",
+    "pinyin": "zìrán",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zi4xing2che1.mp3",
+    "word": "自行車",
+    "pinyin": "zìxíngchē",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zi4you2.mp3",
+    "word": "自由",
+    "pinyin": "zìyóu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zong3shi4.mp3",
+    "word": "總是",
+    "pinyin": "zǒngshì",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zou3lu4.mp3",
+    "word": "走路",
+    "pinyin": "zǒulù",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zu2qiu2.mp3",
+    "word": "足球",
+    "pinyin": "zúqiú",
+    "level": "第2*級"
+  },
+  {
+    "file": "assets/audio/mode3/zui3ba5.mp3",
+    "word": "嘴巴",
+    "pinyin": "zuǐba",
+    "level": "第1*級"
+  },
+  {
+    "file": "assets/audio/mode3/zui4hao3.mp3",
+    "word": "最好",
+    "pinyin": "zuìhǎo",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zui4hou4.mp3",
+    "word": "最後",
+    "pinyin": "zuìhòu",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zui4jin4.mp3",
+    "word": "最近",
+    "pinyin": "zuìjìn",
+    "level": "第2級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo2tian1.mp3",
+    "word": "昨天",
+    "pinyin": "zuótiān",
+    "level": "第1級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo3you4.mp3",
+    "word": "左右",
+    "pinyin": "zuǒyòu",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4dao4.mp3",
+    "word": "做到",
+    "pinyin": "zuòdào",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4fa3.mp3",
+    "word": "做法",
+    "pinyin": "zuòfǎ",
+    "level": "第3級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4sheng1yi4.mp3",
+    "word": "做生意",
+    "pinyin": "zuòshēngyì",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4wei4.mp3",
+    "word": "座位",
+    "pinyin": "zuòwèi",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4wen2.mp3",
+    "word": "作文",
+    "pinyin": "zuòwén",
+    "level": "第3*級"
+  },
+  {
+    "file": "assets/audio/mode3/zuo4ye4.mp3",
+    "word": "作業",
+    "pinyin": "zuòyè",
+    "level": "第2級"
+  }
+]
